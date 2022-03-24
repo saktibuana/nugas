@@ -1,4 +1,5 @@
-# Daftar ini berisi kumpulan project/tugas dari semua yang pernah belajar bersama
+# Daftar ini berisi kumpulan project/tugas
+## dari semua yang pernah belajar bersama
 
 #### BOOTCAMP PROGATE FASTRACK: "INTERMEDIATE JS" (HTML + CSS + JS + API)
 - FULAN 1
